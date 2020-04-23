@@ -18,4 +18,3 @@ To execute the file, run this command on terminal:
 Rosrun YourROSPackageName yourfilename.py
 
 ![alt text](https://github.com/mcagridemir/ConcentricCircle/blob/master/ConcentricCircle.png)
-# ConcentricCircle
